@@ -1,0 +1,25 @@
+# Backend
+backend/target/
+backend/.mvn/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets - IMPORTANT
+backend/src/main/resources/application.properties
