@@ -6,7 +6,7 @@
 
 > 👨‍💻 **Developer Portfolio:** [chowdamashok.github.io/My-Portfolio](https://chowdamashok.github.io/My-Portfolio/)
 
-**[🌐 Live Demo](https://shopecom-20bi88owa-chowdam-ashok-s-projects.vercel.app/)** &nbsp;|&nbsp; **[👨‍💻 Portfolio](https://chowdamashok.github.io/My-Portfolio/)** &nbsp;|&nbsp; **[🚀 Backend](https://shopecom-backend.onrender.com)**
+**[🌐 Live Demo](https://shopecom-ruby.vercel.app/)** &nbsp;|&nbsp; **[👨‍💻 Portfolio](https://chowdamashok.github.io/My-Portfolio/)** &nbsp;|&nbsp; **[🚀 Backend](https://shopecom-backend.onrender.com)**
 
 </div>
 
@@ -16,7 +16,7 @@
 
 **ShopEcom** is a production-grade, AI-powered e-commerce platform built with a modern full-stack architecture. It combines **Spring Boot**, **React.js**, and **Groq's Llama 3.3** to deliver an intelligent, seamless shopping experience — inspired by platforms like Flipkart and Amazon, but enhanced with cutting-edge AI capabilities.
 
-🔗 **Live Demo:** [https://shopecom-20bi88owa-chowdam-ashok-s-projects.vercel.app/](https://shopecom-20bi88owa-chowdam-ashok-s-projects.vercel.app/)
+🔗 **Live Demo:** [https://shopecom-ruby.vercel.app/](https://shopecom-ruby.vercel.app/)
 
 ---
 
@@ -275,7 +275,7 @@ Backend  → http://localhost:8080
 
 | Component | Platform | URL |
 |-----------|----------|-----|
-| Frontend | Vercel | [shopecom-20bi88owa-chowdam-ashok-s-projects.vercel.app](https://shopecom-20bi88owa-chowdam-ashok-s-projects.vercel.app/) |
+| Frontend | Vercel | [shopecom-ruby.vercel.app/](https://shopecom-ruby.vercel.app/) |
 | Backend | Render | [shopecom-backend.onrender.com](https://shopecom-backend.onrender.com) |
 | Database | Neon DB | Managed Cloud PostgreSQL |
 | AI | Groq Cloud | api.groq.com |
@@ -337,6 +337,6 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 Made with ❤️ in India &nbsp;|&nbsp; Powered by AI 🤖
 
-**[🌐 Try It Live → ShopEcom](https://shopecom-20bi88owa-chowdam-ashok-s-projects.vercel.app/)**
+**[🌐 Try It Live → ShopEcom](https://shopecom-ruby.vercel.app/)**
 
 </div>
